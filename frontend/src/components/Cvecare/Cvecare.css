@@ -1,0 +1,78 @@
+.cvecare{
+    margin-top: 110px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    flex-direction: column;
+    background-color: rgb(255, 255, 93);
+    margin-bottom: 50px;
+}
+.p{
+    
+    text-align: center;
+   
+}
+.filter{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.form-group{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    
+}
+.form{
+    text-align: center;
+    
+    margin-left: 10px;
+    margin-right: 10px;
+    
+    }
+.formee{
+    background-color: rgb(202, 255, 202);
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.ccc{
+    border: 1px solid rgb(255, 237, 34);
+background-color: rgb(185, 255, 185);
+display: flex;
+flex-direction: row;
+padding-left: 20px;
+padding-right: 20px;
+width: auto;
+height: auto;
+margin: 20px;
+
+
+}
+.nova{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.c{
+   
+    border: 1px solid rgb(255, 237, 34);
+    background-color: rgb(6, 255, 6);
+    padding: 5px;
+
+
+}
+
+.h{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

@@ -1,0 +1,66 @@
+.onama{
+    display: flex;
+    flex-wrap: wrap;
+    
+    margin-bottom: 50px; 
+    padding-bottom: 30px;
+    background-color: rgb(254, 254, 180);
+
+    flex-direction:row;
+    height: 100%;
+    width: 100%;
+    
+
+}
+.row{
+    text-align: center;
+    margin-top: 115px;
+}
+
+.pola1{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    background-color: rgb(255, 255, 69);
+    width: 100%;
+    padding-left: 20px;
+    margin-left:10px ;
+    margin-right: 90px;
+    align-items: flex-start;
+   
+
+
+}
+
+.pola2{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+
+    
+
+    background-color: rgb(227, 236, 61);
+    align-items: center;
+    margin-left:50px ;
+    margin-right: 50px;
+
+    width: 100%;
+}
+.pola3{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+
+    padding-right: 20px;
+
+    background-color: rgb(255, 255, 84);
+    align-items: flex-end;
+
+    width: 100%;
+    padding-right: 20px;
+    margin-left:90px ;
+    margin-right: 10px;
+}
+
+
+ 

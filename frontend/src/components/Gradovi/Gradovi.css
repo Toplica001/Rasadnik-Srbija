@@ -1,0 +1,60 @@
+.grad{
+    margin-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    background-color: rgb(133, 255, 255);
+    margin-bottom: 50px;
+    
+}
+
+
+.dgra{
+display: flex;
+flex-wrap: wrap;
+flex-direction: column;
+width: auto;
+align-items: center;
+height: auto;
+
+
+}
+
+
+.nazivdgra{
+   display: flex;
+   flex-wrap: wrap;
+    border: 5px dotted rgb(2, 107, 93);
+    justify-content: center;
+    text-align: center;
+    font-style: italic;
+    margin: 5px;
+    padding: 5px; 
+    font-display: block;
+    width: 15%;
+    background-color:rgb(163, 255, 163);
+
+}
+.gradforme{
+    display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   justify-content: center;
+   text-align: center;
+   background-color: rgb(205, 255, 205);
+}
+.form{
+   
+    
+    }
+    
+    
+    .form-group{
+        text-align: center;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        margin-bottom: 10px;
+    }

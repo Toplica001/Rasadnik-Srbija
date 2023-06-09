@@ -1,0 +1,78 @@
+.reg{
+    margin-top: 100px;
+    margin-bottom: 50px;
+    background-color: rgb(216, 255, 210);
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100%;
+   
+}
+.sifra-toggle {
+    cursor: pointer;
+    margin-left: 5px;
+    background-color: aliceblue;
+    margin-top: 5px;
+  }
+  
+
+  .fa-eye,
+  .fa-eye-slash {
+    font-size: 1.2em;
+  }
+.pp{
+    font-style: italic;
+    border: 1px solid red;
+}
+.ff{
+    border: 6px inset rgb(0, 132, 0);
+    background-color: rgb(166, 255, 166);
+    
+}
+.input-wrapper{
+    padding: 5px;
+    margin: 5px;
+}
+.but{
+    margin-top:5px;
+    margin-bottom: 5px;
+}
+
+.rudugme{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+ 
+    padding: 10px;
+    
+    
+    
+    
+   
+   
+    
+}
+.h{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+.d{
+    width: 100px;
+    height: 50px;
+    margin-left: 20px;
+}
+.p{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}

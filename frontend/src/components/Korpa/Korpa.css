@@ -1,0 +1,84 @@
+.korpa{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 150px;
+    margin-bottom: 80px;
+    flex-direction: row;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    align-items: center;
+    border: 1px solid black;
+    background-color: rgb(5, 247, 5);
+    text-align: center;
+    justify-content: center;
+    
+}
+.kolona{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    padding: 3px;
+ 
+}
+.korpaprikazi{
+   
+
+    margin:10px;
+    background-color: rgb(180, 255, 180);
+    padding: 5px;
+    border: 2px dotted yellow;
+    height: 100%;
+
+}
+.korpaoceni{
+
+
+    margin:10px;
+    background-color: rgb(180, 255, 180);
+    padding: 5px;
+    border: 2px dotted yellow;
+
+
+}
+.korpaporudzbina{
+  
+
+    margin:10px;
+    background-color: rgb(180, 255, 180);
+    padding: 5px;
+    border: 2px dotted yellow;
+
+
+}
+.korpasveporudzbine{
+
+
+    margin:10px;
+    background-color: rgb(180, 255, 180);
+    padding: 5px;
+    border: 2px dotted yellow;
+
+
+}
+
+.korpaukloni{
+    
+
+    margin:10px;
+    background-color: rgb(180, 255, 180);
+    padding: 5px;
+    border: 2px dotted yellow;
+
+
+}
+
+.potvrda{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    border: 2px solid black;
+    text-align: center;
+
+}

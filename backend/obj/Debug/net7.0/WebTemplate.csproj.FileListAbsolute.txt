@@ -1,0 +1,338 @@
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\appsettings.Development.json
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\appsettings.json
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\WebTemplate.exe
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\WebTemplate.deps.json
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\WebTemplate.runtimeconfig.json
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\WebTemplate.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\WebTemplate.pdb
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\Azure.Core.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\Azure.Identity.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\Castle.Core.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\Humanizer.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\System.CodeDom.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\obj\Debug\net7.0\WebTemplate.csproj.AssemblyReference.cache
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\obj\Debug\net7.0\WebTemplate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\obj\Debug\net7.0\WebTemplate.AssemblyInfoInputs.cache
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\obj\Debug\net7.0\WebTemplate.AssemblyInfo.cs
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\obj\Debug\net7.0\WebTemplate.csproj.CoreCompileInputs.cache
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\obj\Debug\net7.0\WebTemplate.MvcApplicationPartsAssemblyInfo.cs
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\obj\Debug\net7.0\WebTemplate.MvcApplicationPartsAssemblyInfo.cache
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\obj\Debug\net7.0\staticwebassets\msbuild.WebTemplate.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\obj\Debug\net7.0\staticwebassets\msbuild.build.WebTemplate.props
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebTemplate.props
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebTemplate.props
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\obj\Debug\net7.0\staticwebassets.build.json
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\obj\Debug\net7.0\staticwebassets.development.json
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\obj\Debug\net7.0\scopedcss\bundle\WebTemplate.styles.css
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\obj\Debug\net7.0\WebTemplate.csproj.CopyComplete
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\obj\Debug\net7.0\WebTemplate.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\obj\Debug\net7.0\refint\WebTemplate.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\obj\Debug\net7.0\WebTemplate.pdb
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\obj\Debug\net7.0\WebTemplate.genruntimeconfig.cache
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\obj\Debug\net7.0\ref\WebTemplate.dll
+D:\Web programiranje\web vezbanje\New folder (5)\WebTemplate\bin\Debug\net7.0\WebTemplate.staticwebassets.runtime.json
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\appsettings.Development.json
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\appsettings.json
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\WebTemplate.staticwebassets.runtime.json
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\WebTemplate.exe
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\WebTemplate.deps.json
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\WebTemplate.runtimeconfig.json
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\WebTemplate.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\WebTemplate.pdb
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\Azure.Core.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\Azure.Identity.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\Castle.Core.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\Humanizer.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\IdentityModel.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\IdentityModel.AspNetCore.OAuth2Introspection.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\IdentityServer4.AccessTokenValidation.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\System.CodeDom.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\obj\Debug\net7.0\WebTemplate.csproj.AssemblyReference.cache
+D:\Softversko inzinjerstvo\ProjekatSoftversko\obj\Debug\net7.0\WebTemplate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softversko inzinjerstvo\ProjekatSoftversko\obj\Debug\net7.0\WebTemplate.AssemblyInfoInputs.cache
+D:\Softversko inzinjerstvo\ProjekatSoftversko\obj\Debug\net7.0\WebTemplate.AssemblyInfo.cs
+D:\Softversko inzinjerstvo\ProjekatSoftversko\obj\Debug\net7.0\WebTemplate.csproj.CoreCompileInputs.cache
+D:\Softversko inzinjerstvo\ProjekatSoftversko\obj\Debug\net7.0\WebTemplate.MvcApplicationPartsAssemblyInfo.cs
+D:\Softversko inzinjerstvo\ProjekatSoftversko\obj\Debug\net7.0\WebTemplate.MvcApplicationPartsAssemblyInfo.cache
+D:\Softversko inzinjerstvo\ProjekatSoftversko\obj\Debug\net7.0\staticwebassets\msbuild.WebTemplate.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Softversko inzinjerstvo\ProjekatSoftversko\obj\Debug\net7.0\staticwebassets\msbuild.build.WebTemplate.props
+D:\Softversko inzinjerstvo\ProjekatSoftversko\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebTemplate.props
+D:\Softversko inzinjerstvo\ProjekatSoftversko\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebTemplate.props
+D:\Softversko inzinjerstvo\ProjekatSoftversko\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Softversko inzinjerstvo\ProjekatSoftversko\obj\Debug\net7.0\staticwebassets.build.json
+D:\Softversko inzinjerstvo\ProjekatSoftversko\obj\Debug\net7.0\staticwebassets.development.json
+D:\Softversko inzinjerstvo\ProjekatSoftversko\obj\Debug\net7.0\scopedcss\bundle\WebTemplate.styles.css
+D:\Softversko inzinjerstvo\ProjekatSoftversko\obj\Debug\net7.0\WebTemplate.csproj.CopyComplete
+D:\Softversko inzinjerstvo\ProjekatSoftversko\obj\Debug\net7.0\WebTemplate.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\obj\Debug\net7.0\refint\WebTemplate.dll
+D:\Softversko inzinjerstvo\ProjekatSoftversko\obj\Debug\net7.0\WebTemplate.pdb
+D:\Softversko inzinjerstvo\ProjekatSoftversko\obj\Debug\net7.0\WebTemplate.genruntimeconfig.cache
+D:\Softversko inzinjerstvo\ProjekatSoftversko\obj\Debug\net7.0\ref\WebTemplate.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\appsettings.json
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\WebTemplate.staticwebassets.runtime.json
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\WebTemplate.exe
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\WebTemplate.deps.json
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\WebTemplate.runtimeconfig.json
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\WebTemplate.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\WebTemplate.pdb
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\IdentityModel.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\IdentityModel.AspNetCore.OAuth2Introspection.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\IdentityServer4.AccessTokenValidation.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\SendGrid.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\StarkbankEcdsa.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\obj\Debug\net7.0\WebTemplate.csproj.AssemblyReference.cache
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\obj\Debug\net7.0\WebTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\obj\Debug\net7.0\WebTemplate.AssemblyInfoInputs.cache
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\obj\Debug\net7.0\WebTemplate.AssemblyInfo.cs
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\obj\Debug\net7.0\WebTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\obj\Debug\net7.0\WebTemplate.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\obj\Debug\net7.0\WebTemplate.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\obj\Debug\net7.0\staticwebassets\msbuild.WebTemplate.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\obj\Debug\net7.0\staticwebassets\msbuild.build.WebTemplate.props
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebTemplate.props
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebTemplate.props
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\obj\Debug\net7.0\scopedcss\bundle\WebTemplate.styles.css
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\obj\Debug\net7.0\WebTemplate.csproj.CopyComplete
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\obj\Debug\net7.0\WebTemplate.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\obj\Debug\net7.0\refint\WebTemplate.dll
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\obj\Debug\net7.0\WebTemplate.pdb
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\obj\Debug\net7.0\WebTemplate.genruntimeconfig.cache
+C:\Users\Sajko\Desktop\SoftverskoProjekatBackend (1)\ProjekatSoftversko\obj\Debug\net7.0\ref\WebTemplate.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\appsettings.json
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\WebTemplate.staticwebassets.runtime.json
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\WebTemplate.exe
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\WebTemplate.deps.json
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\WebTemplate.runtimeconfig.json
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\WebTemplate.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\WebTemplate.pdb
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\IdentityModel.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\IdentityModel.AspNetCore.OAuth2Introspection.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\IdentityServer4.AccessTokenValidation.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\SendGrid.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\StarkbankEcdsa.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\obj\Debug\net7.0\WebTemplate.csproj.AssemblyReference.cache
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\obj\Debug\net7.0\WebTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\obj\Debug\net7.0\WebTemplate.AssemblyInfoInputs.cache
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\obj\Debug\net7.0\WebTemplate.AssemblyInfo.cs
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\obj\Debug\net7.0\WebTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\obj\Debug\net7.0\WebTemplate.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\obj\Debug\net7.0\WebTemplate.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\obj\Debug\net7.0\staticwebassets\msbuild.WebTemplate.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\obj\Debug\net7.0\staticwebassets\msbuild.build.WebTemplate.props
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebTemplate.props
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebTemplate.props
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\obj\Debug\net7.0\scopedcss\bundle\WebTemplate.styles.css
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\obj\Debug\net7.0\WebTemplate.csproj.CopyComplete
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\obj\Debug\net7.0\WebTemplate.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\obj\Debug\net7.0\refint\WebTemplate.dll
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\obj\Debug\net7.0\WebTemplate.pdb
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\obj\Debug\net7.0\WebTemplate.genruntimeconfig.cache
+C:\Users\Sajko\Desktop\prejada\ProjekatSoftversko\obj\Debug\net7.0\ref\WebTemplate.dll
